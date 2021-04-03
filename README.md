@@ -26,6 +26,11 @@ Or
 mvnw spring-boot:run
 </code>
 
+## Swagger UI / Openapi spec pages
+
+- Openapi : http://localhost:8080//api/openapi
+- Swagger UI : http://localhost:8080/swagger-ui.html
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
